@@ -1,6 +1,7 @@
 # letest2
 
-Here will be some information about the app.
+This is quick sample code to show using ipcRenderer and ipcMain in a lwc-oss Electron app.
+This was made specifically for select people, if you stumbled across it then it probably isn't for you.
 
 ## How to start?
 
